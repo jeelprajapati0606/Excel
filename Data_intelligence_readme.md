@@ -4,10 +4,7 @@
 
 ### 🚀 Advanced Microsoft Excel Project for Sales Analytics & Business Intelligence
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-success?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard-Interactive-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+
 
 <br>
 
@@ -27,9 +24,7 @@
 <img src="https://img.shields.io/badge/📈_Insights-Check-purple?style=for-the-badge"/>
 </a>
 
-<a href="#author">
-<img src="https://img.shields.io/badge/👨‍💻_Author-About_Me-red?style=for-the-badge"/>
-</a>
+
 
 </div>
 
@@ -53,7 +48,7 @@
 - [🎓 Key Findings](#key-findings)
 - [🛠 Technologies Used](#technologies-used)
 - [📋 Project Structure](#project-structure)
-- [👤 Author](#author)
+
 
 ---
 
@@ -78,25 +73,25 @@
 
 ## ✨ Project Features
 
-✅ Date & Time Functions
+- Date & Time Functions
 
-✅ Dynamic FILTER Function
+- Dynamic FILTER Function
 
-✅ Scenario Manager
+- Scenario Manager
 
-✅ Goal Seek
+- Goal Seek
 
-✅ Linear Regression Analysis
+- Linear Regression Analysis
 
-✅ Customer Segmentation
+- Customer Segmentation
 
-✅ Most Purchased Product Analysis
+- Most Purchased Product Analysis
 
-✅ Customer Matching Analysis
+- Customer Matching Analysis
 
-✅ Pivot Tables & Charts
+- Pivot Tables & Charts
 
-✅ Interactive Dashboard
+- Interactive Dashboard
 
 ---
 
@@ -285,20 +280,6 @@ Bookshelf was the most frequently purchased product.
 
 <a id="customer-matching-analysis"></a>
 
-## 🤝 Customer Matching Analysis
-
-### Matching Customers
-
-- Barbara Young
-- Daniel King
-- Dorothy Nelson
-- Edward Mitchell
-- Joseph Jackson
-- Karen Hill
-- Lawrence Reed
-- Mark Carter
-- Patricia Moore
-- Paul Baker
 
 ### Formula Used
 
@@ -336,23 +317,8 @@ Bookshelf was the most frequently purchased product.
 
 ### Dashboard Components
 
-📈 Pivot Charts
+<img width="964" height="594" alt="image" src="https://github.com/user-attachments/assets/b1a973e2-d7d9-4d7c-bfb1-7241f98a90ea" />
 
-📊 Pivot Tables
-
-🎛 Slicers
-
-📅 Timelines
-
-📋 KPI Cards
-
-📉 Line Charts
-
-📊 Bar Charts
-
-🥧 Pie Charts
-
-🎨 Conditional Formatting
 
 ---
 
@@ -414,35 +380,4 @@ Excel_Sales_Analysis_Dashboard/
 
 ---
 
-<a id="author"></a>
 
-## 👤 Author
-
-### Jeel Prajapati
-
-🎓 BCA (Honours) Student
-
-📊 Aspiring Data Analyst
-
-🤖 Future AI Engineer
-
-### Skills
-
-- Python
-- SQL
-- Power BI
-- Microsoft Excel
-- Data Visualization
-- Statistics
-
----
-
-<div align="center">
-
-## ⭐ If you found this project helpful, please consider giving it a star!
-
-### 🚀 Turning Raw Data into Business Insights
-
-### Made with ❤️ by Jeel Prajapati
-
-</div>
